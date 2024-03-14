@@ -58,7 +58,7 @@ global.ownername = process.env.SUDO_NAME || 'by Eksubot' //ur owner name
 //________________________________________________________________________________________________________
 global.websitex = process.env.YT_LINK || "https://youtube.com/eksubot"
 //________________________________________________________________________________________________________
-global.wagc = process.env.GL_PUSH || "https://whatsapp.com/channel/"
+global.wagc = process.env.GL_PUSH || "https://whatsapp.com/channel/0029Va4c0jLGpLHNfYJYyM1g"
 //________________________________________________________________________________________________________
 global.themeemoji = process.env.GL_EMOJI || '🏮'
 //________________________________________________________________________________________________________
